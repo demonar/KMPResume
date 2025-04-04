@@ -1,0 +1,10 @@
+<resources>
+    <string name="my_name">Alejandro Moya</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_message">This is my resume, you'll find information about me, my career and my motivations for working in mobile development.</string>
+
+    <!-- Menu -->
+    <string name="menu_home">Home</string>
+    <string name="menu_contact">Contact information.</string>
+
+</resources>

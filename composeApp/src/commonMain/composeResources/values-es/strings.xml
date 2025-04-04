@@ -1,0 +1,5 @@
+<resources>
+    <string name="my_name">Alejandro Moya</string>
+    <string name="welcome">Bienvenidos</string>
+    <string name="welcome_message">Este es mi curriculum, encontraran informacion sobre mi, mi carrera y las motivaciones que me llevan a trabajar en desarrollo mobile.</string>
+</resources>
